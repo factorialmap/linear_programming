@@ -21,3 +21,6 @@
   1. Otimização de rotas
   2. Planejamento de demanda
   3. Planejamento de produção
+
+
+Referencia: Lucca Scruca
