@@ -1,5 +1,5 @@
 ## Teste para conteúdo reproduzivel
 
 
-$E = mc^2$
+E=mc^2
   
